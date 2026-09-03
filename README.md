@@ -4,10 +4,47 @@
 
 NeuroNurture is a comprehensive microservices-based platform designed to detect autism in children and provide personalized growth tracking through AI-powered insights, gameplay, and professional supervision.
 
+# NeuroNurture
+
+**An AI-Powered Autism Detection and Growth Platform for Children**
+
+[![IEEE Paper](https://img.shields.io/badge/IEEE-Published_Paper-00629B?logo=ieee&logoColor=white)](https://doi.org/10.1109/QPAIN69676.2026.11546353)
+
+NeuroNurture is a comprehensive microservices-based platform designed to detect autism in children and provide personalized growth tracking through AI-powered insights, gameplay, and professional supervision.
+
 ## Overview
 
-NeuroNurture combines cutting-edge AI technology with engaging gameplay to create a holistic approach to autism detection and child development. The platform serves three main user types: parents, schools, and doctors, each with specialized features and capabilities.
+NeuroNurture combines cutting-edge AI technology with engaging gameplay to create a holistic approach to autism detection and child development.
 
+
+## 📄 Research Publication
+
+The research behind **NeuroNurture** has been published in the **2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN)**.
+
+### Towards a Unified AI Framework for Autism Support: System Design and Pilot Evaluation
+
+**Authors:** Tajul Islam Tarek, Abhishek Dash, Barnali Sarker Shoumita, and Mohammad Shahidur Rahman
+
+**Conference:** 2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN)  
+**Publisher:** IEEE  
+**DOI:** [10.1109/QPAIN69676.2026.11546353](https://doi.org/10.1109/QPAIN69676.2026.11546353)
+
+> This publication presents the system design and pilot evaluation of our unified AI framework for autism support, incorporating AI-driven behavioral analysis, multimodal sensing, and games for early screening and developmental support.
+
+### Citation
+
+If you use NeuroNurture or our research in your work, please cite:
+
+```bibtex
+@INPROCEEDINGS{11546353,
+  author={Tarek, Tajul Islam and Dash, Abhishek and Shoumita, Barnali Sarker and Rahman, Mohammad Shahidur},
+  booktitle={2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN)},
+  title={Towards a Unified AI Framework for Autism Support: System Design and Pilot Evaluation},
+  year={2026},
+  pages={1-6},
+  doi={10.1109/QPAIN69676.2026.11546353}
+}
+```
 ## Key Features
 
 ### Parent Features
